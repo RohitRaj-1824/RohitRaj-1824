@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitraj-1824&label=Profile%20views&color=0e75b6&style=flat" alt="rohitraj-1824" /> </p>
 
+###
+<img align="right" height="220" src="https://i.pinimg.com/564x/3f/97/ae/3f97aedfa1f1e898d7d0b3ac139e18e7.jpg"  />
+
 - 🔭 I’m currently working on **Exploring DSA**
 
 - 🌱 I’m currently learning **Javascript**
@@ -11,6 +14,8 @@
 
 - 📫 How to reach me **https://github.com/RohitRaj-1824**
 
+
+###
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rohit raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit raj" height="30" width="40" /></a>
